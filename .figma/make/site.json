@@ -1,0 +1,10 @@
+{
+  "description": "Creates exact visual replicas of designs for developers and designers to ensure precise implementation and seamless project handoffs.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
